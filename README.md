@@ -100,7 +100,7 @@ powershell -ExecutionPolicy Bypass -File network-scanner.ps1
 │           NETWORK SCANNER               │
 ├─────────────────────────────────────────┤
 │  TARGET                                 │
-│  Target IP: [100.74.88.110    ]         │
+│  Target IP: [IP TARGET        ]         │
 │  Ports:     [22,80,445,3389   ]         │
 ├─────────────────────────────────────────┤
 │  PRESETS                                 │
